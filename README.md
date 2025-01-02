@@ -1,2 +1,3 @@
-# flappy-disk-game
-Universidad Nacional de las Artes, Lic. Artes Multimediales. Este es un trabajo práctico para Informática Aplicada 1, Cátedra Bedoian. Año: 2024
+# Flappy Disk Game
+Este proyecto está inspirado en el clásico juego "Flappy Bird". En esta versión, el protagonista es un disco que debe esquivar obstáculos para acumular puntos mientras la velocidad del juego aumenta progresivamente. Si el disco choca contra un obstáculo, se rompe y el jugador pierde la partida.
+
